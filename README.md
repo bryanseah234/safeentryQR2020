@@ -1,5 +1,5 @@
 # safeentry-pass-code
-code to generate fake Safe Entry Passes 
+code to generate fake Safe Entry Passes\
 (USE AT OWN DISCRETION, FOR EDUCATIONAL PURPOSES ONLY)
 
 <p align="left">
