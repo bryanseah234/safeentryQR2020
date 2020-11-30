@@ -12,4 +12,7 @@ code to generate fake Safe Entry Passes.
 ## Instructions:
 1. Download the repo as a zip file
 2. Unzip the file
-3. Double click python file to run the programme
+3. Open the python file in an editor of your choice
+4. Paste in the names of the locations you want to generate for
+5. Save and close the python file
+6. Double click to run the programme
